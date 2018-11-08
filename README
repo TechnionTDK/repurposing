@@ -1,0 +1,12 @@
+
+The python notebook contains annotated code for building the text-based graph and finding reasoning paths in it.
+
+The code is also presented in several .py files
+
+=========================
+createSemRepGraph.py
+=========================
+The file createSemRepGraph.py contains python scripts that build a text based graph from SemRep predicates.
+The script assumes the file '/my_folder/SemRep.txt' contains the SemRep PREDICATE table in csv format (see: https://semrep.nlm.nih.gov/)
+
+Here is a sample of the csv file:
